@@ -1,1 +1,2 @@
-# portfolio.github.io
+# AI Portfolio
+Prepped for deployment and customization.
